@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/shopify-intern-challenge/static/js/main.0bfa95ef.chunk.js",
-    "main.js.map": "/shopify-intern-challenge/static/js/main.0bfa95ef.chunk.js.map",
+    "main.js": "/shopify-intern-challenge/static/js/main.56f25c1a.chunk.js",
+    "main.js.map": "/shopify-intern-challenge/static/js/main.56f25c1a.chunk.js.map",
     "runtime-main.js": "/shopify-intern-challenge/static/js/runtime-main.c202f08a.js",
     "runtime-main.js.map": "/shopify-intern-challenge/static/js/runtime-main.c202f08a.js.map",
     "static/js/2.7f73dc65.chunk.js": "/shopify-intern-challenge/static/js/2.7f73dc65.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c202f08a.js",
     "static/js/2.7f73dc65.chunk.js",
-    "static/js/main.0bfa95ef.chunk.js"
+    "static/js/main.56f25c1a.chunk.js"
   ]
 }
