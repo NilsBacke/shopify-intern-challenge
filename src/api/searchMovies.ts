@@ -1,6 +1,6 @@
 import { Movie } from '../types'
 
-const API_URL = 'http://www.omdbapi.com/?apikey=4501579e&type=movie&s='
+const API_URL = 'https://www.omdbapi.com/?apikey=4501579e&type=movie&s='
 const LIMIT = 5
 
 export const searchMovies = async (searchText: string): Promise<Movie[]> => {
