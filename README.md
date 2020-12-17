@@ -8,6 +8,7 @@
 
 ## Future Additions
 
+- Show message when no results were found from query
 - Error handling
 - Store API key as an environment variable
 - Save nominations to a database
